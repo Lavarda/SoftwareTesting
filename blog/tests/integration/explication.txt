@@ -1,0 +1,2 @@
+Esta pasta é utilizada para testes que dependam de algo externo
+Por exemplo o Blog depende do Post, logo estamos testando se o Post está sendo feito e se o Blog contem o post.

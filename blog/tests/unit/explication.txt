@@ -1,0 +1,2 @@
+Unit package serve apenas para colocar testes unitários
+Testar arquivos ou metódos que não dependam de nada externo.
