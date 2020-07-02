@@ -1,0 +1,7 @@
+Steps:
+    São os passos que o behave irá realizar
+    Begin, When, And e Then.
+    É bom separar eles em uma estrutura como por exemplo:
+        Navigations: Colocar todas as navegações entre telas.
+        Interaction: Clicar em botões, links ou escrever em inputs.
+        Content: Coletar dados da página como textos, titulos e etc.

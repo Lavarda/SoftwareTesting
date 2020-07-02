@@ -1,0 +1,7 @@
+Locators:
+    Os locators são utilizados para armazenar variavies de uma página
+    Para que não seja necessário alterar a mesma coisa em diversos lugares.
+    Ex:
+        Salvar um botão com um id em uma constante
+        Salvar uma tag de título
+        Salvar um input e por assim vai...

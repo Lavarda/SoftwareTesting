@@ -1,0 +1,3 @@
+Page models:
+    As page models retornam atributos das páginas, como por exemplo
+    URL, Botão de Link, Titulo e etc.
